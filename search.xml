@@ -4,6 +4,32 @@
   
     
     <entry>
+      <title>关于机场的学习</title>
+      <link href="/posts/3489414034/"/>
+      <url>/posts/3489414034/</url>
+      
+        <content type="html"><![CDATA[<p>贴上一些使用的使用link:</p><p>逗逼大神的关于SSR机场一键搭建的帖子.<br>这里要注意, SSR和SS不是同一个东西, v2rayN的客服段不一定能使用SSR的链接, SSR的加密方式大多在v2rayN中不支持, 也有一两个支持的, 所以SSR的客户端还是建议下SSR自己的</p><blockquote><p><a href="https://github.com/ToyoDAdoubiBackup/shadowsocksr">https://github.com/ToyoDAdoubiBackup/shadowsocksr</a><br><a href="https://ssr.tools/803">https://ssr.tools/803</a><br><a href="https://github.com/ToyoDAdoubi/doubi?tab=readme-ov-file#ssrsh">https://github.com/ToyoDAdoubi/doubi?tab=readme-ov-file#ssrsh</a></p></blockquote><p>233boy一键搭建v2ray机场的帖子, 但是这个只能用来翻墙, 因为它要访问外网来获取ip地址<code>https://one.one.one.one/cdn-cgi/trace</code> 这个地址</p><blockquote><p><a href="https://233boy.com/v2ray/v2ray-script/">https://233boy.com/v2ray/v2ray-script/</a><br><a href="https://github.com/233boy/v2ray/wiki/V2Ray%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B">https://github.com/233boy/v2ray/wiki/V2Ray%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B</a><br><a href="https://github.com/233boy/v2ray/wiki/V2Ray%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC">https://github.com/233boy/v2ray/wiki/V2Ray%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC</a><br><a href="https://233boy.com/">https://233boy.com/</a></p></blockquote><p>如果给linux服务器使用clash,命令行 &amp; dashboard</p><blockquote><p><a href="https://parrotsec-cn.org/t/linux-clash-dashboard/5169">https://parrotsec-cn.org/t/linux-clash-dashboard/5169</a><br><a href="https://luckyfuture.top/config-clash-on-linux#%E5%AE%89%E8%A3%85clash">https://luckyfuture.top/config-clash-on-linux#%E5%AE%89%E8%A3%85clash</a><br><a href="https://github.com/ghostxu97/clash-for-linux?tab=readme-ov-file">https://github.com/ghostxu97/clash-for-linux?tab=readme-ov-file</a></p></blockquote><p>运行命令: </p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">systemctl start clash</span><br></pre></td></tr></table></figure><p>PS： 阿里云的服务器和腾讯云的不一样, 它的网络安全组策略太多了, 配置的安全组你不知道有没有和esc实例绑定. 建议在ecs实例的tag下对已有的安全组进行修改而不是重新搞一个新的安全组.<br>(转载于Github大佬tigerdahuacao<a href="https://github.com/tigerdahuacao">大佬主页</a>)</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>一些Github有趣项目</title>
+      <link href="/posts/3955807483/"/>
+      <url>/posts/3955807483/</url>
+      
+        <content type="html"><![CDATA[<p>故意给项目捣乱<br><a href="https://github.com/duo001/evil.js">这里</a></p><p>程序员延寿指南<br><a href="https://github.com/geekan/HowToLiveLonger">这里</a></p><p>各种语言免费编程书<br><a href="https://github.com/EbookFoundation/free-programming-books">这里</a></p><p>壁纸生成器<br><a href="https://github.com/pearmini/colorfu">这里</a></p><p>人生重开模拟器<br><a href="https://github.com/xitu/coding-life">这里</a></p><p>P站风格图片生成<br><a href="https://github.com/bestony/logoly">这里</a></p><p>神级注释<br><a href="https://github.com/Blankj/awesome-comment">这里</a></p><p>一个很好玩的游戏(森林种田文字游戏)<br><a href="https://github.com/doublespeakgames/adarkroom">这里</a></p><p>BiliBili API 收集<br><a href="https://github.com/SocialSisterYi/bilibili-API-collect">这里</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>全球发明大会比赛规则</title>
       <link href="/posts/1732278756/"/>
       <url>/posts/1732278756/</url>

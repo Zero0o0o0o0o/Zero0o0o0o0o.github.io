@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>如何配置更好的powershell</title>
+      <link href="/posts/2925669082/"/>
+      <url>/posts/2925669082/</url>
+      
+        <content type="html"><![CDATA[<p><a href="https://zhuanlan.zhihu.com/p/351281543">链接</a></p><p>winget install –id&#x3D;Microsoft.WindowsTerminal -e</p><p>Install-Module posh-git -Scope CurrentUser Install-Module oh-my-posh -Scope CurrentUser</p><p>如果有admin权限,则使用admin权限进powershell</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>关于机场的学习</title>
       <link href="/posts/3489414034/"/>
       <url>/posts/3489414034/</url>

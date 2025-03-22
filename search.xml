@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>thedamn--在cmd上使用工具thefuck教学</title>
+      <link href="/posts/3349045205/"/>
+      <url>/posts/3349045205/</url>
+      
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>众所周知，有一个Python编写的小工具thefuck可以帮助我们自动修正键入命令中的错误，但可惜的是它并不能在cmd里使用。为了照顾到那些习惯于使用cmd的程序员（比如我），github上的zyf722大佬用python编写了在cmd下的thefuck的替代品thedamn以实现在cmd中使用thefuck的效果。</p><h1 id="1-安装thedamn"><a href="#1-安装thedamn" class="headerlink" title="1.安装thedamn"></a>1.安装thedamn</h1><p>首先确保你拥有python3.x的环境，没有的自行百度python安装教程</p><p>之后，在有管理员权限的cmd中使用以下命令：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git clone https://github.com/zyf722/thedamn.git</span><br></pre></td></tr></table></figure><p>若网络不好无法使用git clone，可以在github的项目页面下载项目的ZIP包然后解压。</p><p>git clone命令所创建的项目目录或ZIP包解压后的目录，其实就是thedamn的安装目录。</p><p>再使用cd命令进入项目目录，输入install.py并回车以安装thedamn。</p><p>确保你在运行install.py的时候是处在管理员权限下</p><p>当控制台显示[!] Done.字样，表示安装成功。</p><p>安装成功后不要删除这个项目目录，因为thedamn的本体是在这个目录里的。</p><h1 id="2-使用thedamn"><a href="#2-使用thedamn" class="headerlink" title="2.使用thedamn"></a>2.使用thedamn</h1><p>稍微有点遗憾的是，thedamn只支持对XXX 不是内部或外部命令，也不是可运行的程序 或批处理文件。这样的“未知命令错误”或git、pip等工具的“未知子命令错误”进行修正，功能上稍逊于真正的thefuck。</p><p>当你输入一个错误的命令并想修复它时，只需输入如下命令：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">damn</span><br></pre></td></tr></table></figure><p>此外，如果thedamn命令给出的命令不是你想要的，可以输入c来在thedamn给出的其他命令中选择</p><p>thedamn还支持对git、pip等工具的“未知子命令错误”进行修正</p><p>如果你认为“damn”这个单词表达的情感不如“fuck”强烈，或是想让thedamn用起来和thefuck一样，请把thedamn安装目录下的damn.bat文件的名字修改为fuck.bat，这样在使用thedamn时，敲的就不是damn而是fuck了。</p><h1 id="3-自定义命令"><a href="#3-自定义命令" class="headerlink" title="3.自定义命令"></a>3.自定义命令</h1><p>thedamn支持自定义的可以修正的命令或子命令，详细请见thedamn原github项目的<a href="https://github.com/zyf722/thedamn">README</a>文件</p><h1 id="4-the-damn压缩包下载"><a href="#4-the-damn压缩包下载" class="headerlink" title="4.the damn压缩包下载"></a>4.the damn压缩包下载</h1><p>the damn下载压缩包<a href="https://zapyatransfer.com/r/oZIZuLMayXshCUiyGXp">链接</a></p><h2 id="附：the-fuck压缩包下载链接（仅限liunx）"><a href="#附：the-fuck压缩包下载链接（仅限liunx）" class="headerlink" title="附：the fuck压缩包下载链接（仅限liunx）"></a>附：the fuck压缩包下载链接（仅限liunx）</h2><p>the fuck下载<a href="https://github.com/Zero0o0o0o0o/thefuck">链接</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>快速上手Markdown</title>
       <link href="/posts/1926176575/"/>
       <url>/posts/1926176575/</url>
